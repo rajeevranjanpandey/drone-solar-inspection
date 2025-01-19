@@ -5,7 +5,17 @@ Welcome to the Drone-Based Solar Panel Inspection project! This innovative solut
 
 ## Problem Statement
 Solar panels are vital in the global transition to clean energy. However, inspecting them for maintenance is a time-consuming and labor-intensive process. Traditional methods require manual inspection, which can be inefficient and prone to human error. This project introduces a drone-based system that automates the process of solar panel inspection, saving time, improving accuracy, and optimizing the overall maintenance process.
-
+## 📁 Project Structure
+```bash
+drone-solar-inspection/
+│
+├── README.md             # Project overview and documentation
+├── main.py               # Main script to control drone and process data
+├── scripts/              # Directory for additional scripts and functions
+│   └── main.py           # Drone flight path and data collection
+├── data/                 # Folder to store data collected during inspections
+├── results/              # Folder to store processed results and reports
+└── .git/                 # Git repository folder
 ## Features
 - Drone Flight Automation: Autonomous flight path design for drone inspections, ensuring full coverage of solar panel fields.
 - High-Resolution Imaging: Drones equipped with high-resolution cameras to capture detailed images of solar panels.
