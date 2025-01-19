@@ -10,7 +10,6 @@ Solar panels are vital in the global transition to clean energy. However, inspec
 drone-solar-inspection/
 │
 ├── README.md             # Project overview and documentation
-├── main.py               # Main script to control drone and process data
 ├── scripts/              # Directory for additional scripts and functions
 │   └── main.py           # Drone flight path and data collection
 ├── data/                 # Folder to store data collected during inspections
