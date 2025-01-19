@@ -56,6 +56,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- Rajeev Ranjan Pande - [GitHub](https://github.com/rajeevranjanpandey)  
+- Rajeev Ranjan Pandey - [GitHub](https://github.com/rajeevranjanpandey)  
 - Contributors: Feel free to contribute to this project by submitting issues and pull requests.
 
