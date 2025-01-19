@@ -16,7 +16,8 @@ drone-solar-inspection/
 ├── data/                 # Folder to store data collected during inspections
 ├── results/              # Folder to store processed results and reports
 └── .git/                 # Git repository folder
-## Features
+```
+### Features
 - Drone Flight Automation: Autonomous flight path design for drone inspections, ensuring full coverage of solar panel fields.
 - High-Resolution Imaging: Drones equipped with high-resolution cameras to capture detailed images of solar panels.
 - Fault Detection Algorithms: Using image processing and machine learning techniques to identify potential faults, damage, and inefficiencies in the solar panels.
@@ -36,18 +37,6 @@ drone-solar-inspection/
 - Machine Learning: For pattern recognition and classification of solar panel issues.
 - Python: The programming language for both drone control and data analysis.
 - ROS (Robot Operating System): For managing drone movements and real-time communications.
-
-## 📁 Project Structure
-drone-solar-inspection/
-│
-├── README.md             # Project overview and documentation
-├── main.py               # Main script to control drone and process data
-├── scripts/              # Directory for additional scripts and functions
-│   └── main.py           # Drone flight path and data collection
-├── data/                 # Folder to store data collected during inspections
-├── results/              # Folder to store processed results and reports
-└── .git/                 # Git repository folder
-
 
 ## Future Enhancements
 - Real-Time Monitoring: Implementing live video streaming during drone flights to monitor solar panel conditions in real-time.
