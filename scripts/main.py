@@ -28,6 +28,7 @@ def save_results(directory="results"):
         for panel, status in INSPECTION_DATA.items():
             file.write(f"{panel}: {status}\n")
     print(f"\nInspection results saved to {results_file}")
+    
 
 if __name__ == "__main__":
     inspect_solar_panels()
